@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi I'm @Jin Young
 <div align="center">
-  <h3><b> 🛠 Tech Stack</h3>
+  <h2><b> 🛠 Tech Stack</h2>
 </div>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
