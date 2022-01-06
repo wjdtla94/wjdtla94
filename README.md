@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 <br>
+<div align="center">
+  <h2><b> 🎮My Project</h2>
+</div>
 
-[![wjdtla94's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtla94&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wjdtla94)
-
+![wjdtla94's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtla94&layout=compact&theme=dracula)
 
